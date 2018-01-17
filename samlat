@@ -39,11 +39,18 @@ The case study approach --Sarah Crowe,Kathrin Cresswell,Ann Robertson,Guro Huby,
 How to do Case study research- Donna M. Zucker
 Analys av data; Open coding? Open Coding av Shahedul Huq Khandkar
 
+serialization och deserialization.
+http://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand11/Group2Mads/victor.hallberg.malin.eriksson.report.pdf
+
 Teori för BSP; A Tutorial on Binary Space Partitioning Trees - Bruce F . Naylor
 Binary Space Partioning Trees and Polygon Removal in Real Time 3D Rendering - Samuel Ranta-Eskola 
 http://n7keops.free.fr/projet/bspcompiler/html/bsp.pdf
+http://www.webalice.it/giorgio.faconti/EG99tutorials/T9/bsp.pdf
+http://melax.github.io/bsp/melaxbsp.pdf
 
 Teori för Octree; Morton - key?
+http://mosaic.mpi-cbg.de/docs/Zaluzhnyi2016.pdf
+https://is.muni.cz/th/4269/fi_d/thesis.pdf
 Statistical optimization of octree searches - RENER CASTRO, THOMAS LEWINER, HELIO LOPES, GEOVAN TAVARES AND ALEX BORDIGNON
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.152.7074&rep=rep1&type=pdf
 http://www.merl.com/publications/docs/TR2002-41.pdf
@@ -53,6 +60,8 @@ https://geidav.wordpress.com/2014/07/18/advanced-octrees-1-preliminaries-inserti
 https://geidav.wordpress.com/2014/08/18/advanced-octrees-2-node-representations/
 https://pdfs.semanticscholar.org/fb56/eada079ad85d9224a9b9fbf763b5ba921eb9.pdf
 http://kucg.korea.ac.kr/new/seminar/2010/src/paper-2010-11-17.pdf
+http://fab.cba.mit.edu/classes/S62.12/docs/Meagher_octree.pdf
+
 
 teorier för spelutveckling och tillhörande algoritmer;
 algorithmic and architectural gaming design - Ashok kumar, Jim etheredge, Aaron Boudreaux
