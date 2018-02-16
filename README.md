@@ -13,7 +13,7 @@ Minnesanvändning i RAM och undansparat
 
 https://www.linkedin.com/pulse/research-methodologies-comparison-quantitative-mixed-methods-gunnell
 
-
+world of zero youtube
 
 https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/
 https://sites.google.com/site/letsmakeavoxelengine/home/basic-block-rendering
