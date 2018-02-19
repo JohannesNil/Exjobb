@@ -16,6 +16,9 @@ http://www.cs.umd.edu/~hjs/pubs/SameCVGIP89.pdf
 world of zero youtube
 nymano - memories of you
 
+
+https://en.wikipedia.org/wiki/Octree
+
 https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/
 https://sites.google.com/site/letsmakeavoxelengine/home/basic-block-rendering
 http://ideaexchange.uakron.edu/cgi/viewcontent.cgi?article=1231&context=honors_research_projects
