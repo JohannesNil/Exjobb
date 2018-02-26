@@ -16,6 +16,7 @@ http://www.cs.umd.edu/~hjs/pubs/SameCVGIP89.pdf
 world of zero youtube
 nymano - memories of you
 
+https://www.youtube.com/watch?v=Ba0maylORuo
 
 https://en.wikipedia.org/wiki/Octree
 
