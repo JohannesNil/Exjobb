@@ -13,8 +13,10 @@ Minnesanvändning i RAM och undansparat
 
 https://www.linkedin.com/pulse/research-methodologies-comparison-quantitative-mixed-methods-gunnell
 http://www.cs.umd.edu/~hjs/pubs/SameCVGIP89.pdf
+
+
 world of zero youtube
-nymano - memories of you
+
 
 https://www.youtube.com/watch?v=Ba0maylORuo
 
