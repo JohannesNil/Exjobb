@@ -14,6 +14,7 @@ Minnesanvändning i RAM och undansparat
 https://www.linkedin.com/pulse/research-methodologies-comparison-quantitative-mixed-methods-gunnell
 http://www.cs.umd.edu/~hjs/pubs/SameCVGIP89.pdf
 
+https://maxondev.com/serialization-performance-comparison-c-net-formats-frameworks-xmldata
 
 http://nsuworks.nova.edu/tqr/vol13/iss4/2/
 
