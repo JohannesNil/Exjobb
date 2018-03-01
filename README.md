@@ -15,7 +15,7 @@ https://www.linkedin.com/pulse/research-methodologies-comparison-quantitative-mi
 http://www.cs.umd.edu/~hjs/pubs/SameCVGIP89.pdf
 
 
-
+http://nsuworks.nova.edu/tqr/vol13/iss4/2/
 
 https://cdn.preterhuman.net/texts/math/Data_Structure_And_Algorithms/Data%20Structure%20For%20Game%20Programers%20-%20Ron%20Penton.pdf
 
