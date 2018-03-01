@@ -13,39 +13,42 @@ Minnesanvändning i RAM och undansparat
 Prova ett quadtree för att det går?
 https://bytes.com/topic/c-sharp/insights/880968-generic-quadtree-implementation
 
-
-
-https://www.linkedin.com/pulse/research-methodologies-comparison-quantitative-mixed-methods-gunnell
+intressant för Octrees
+https://en.wikipedia.org/wiki/Octree
+https://www.omicsonline.org/rendering-for-3d-animation-based-on-octree-jcsb.10000117.php?aid=1289&view=mobile
 http://www.cs.umd.edu/~hjs/pubs/SameCVGIP89.pdf
+world of zero youtube - Killen är ett geni.
+Chanfort på youtube https://www.youtube.com/watch?v=Ba0maylORuo
 
-https://maxondev.com/serialization-performance-comparison-c-net-formats-frameworks-xmldata
 
+grundläggande för vektorer,kuber voxlar osv.
+https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/
+http://ideaexchange.uakron.edu/cgi/viewcontent.cgi?article=1231&context=honors_research_projects
+https://sites.google.com/site/letsmakeavoxelengine/home/basic-block-rendering
+
+
+Quantiative methods.
+https://www.linkedin.com/pulse/research-methodologies-comparison-quantitative-mixed-methods-gunnell
 http://nsuworks.nova.edu/tqr/vol13/iss4/2/
-
-https://cdn.preterhuman.net/texts/math/Data_Structure_And_Algorithms/Data%20Structure%20For%20Game%20Programers%20-%20Ron%20Penton.pdf
-
 http://www.mega-project.eu/assets/exp/resources/Rafaela_and_Marisa_STSM_Zagreb_Report.pdf
 
+Comparison serialization and deserializationmetoder
+https://maxondev.com/serialization-performance-comparison-c-net-formats-frameworks-xmldata
 
 
 
- https://www.simplypsychology.org/experimental-designs.html
- http://ruby.fgcu.edu/courses/sbevins/50065/qtdesign.html
+Ron pentons bok, väldigt bra att lära sig av allmän programmering.
+https://cdn.preterhuman.net/texts/math/Data_Structure_And_Algorithms/Data%20Structure%20For%20Game%20Programers%20-%20Ron%20Penton.pdf
 
+Robert Yins bok om Fallstudier, andra volymen tror jag.
 http://www.madeira-edu.pt/LinkClick.aspx?fileticket=Fgm4GJWVTRs%3D&tabid=3004
 
 
 
-world of zero youtube
+Experimental design
+ https://www.simplypsychology.org/experimental-designs.html
+ http://ruby.fgcu.edu/courses/sbevins/50065/qtdesign.html
 
-
-https://www.youtube.com/watch?v=Ba0maylORuo
-
-https://en.wikipedia.org/wiki/Octree
-
-https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/
-https://sites.google.com/site/letsmakeavoxelengine/home/basic-block-rendering
-http://ideaexchange.uakron.edu/cgi/viewcontent.cgi?article=1231&context=honors_research_projects
 
 Comparative research designm;
 http://vbn.aau.dk/files/73680818/2012_1_Heidi_Salomonsen.pdf
@@ -55,11 +58,10 @@ sass-lang.com
 gulp node
 gulp-webserver.
 
-sass/main.css - index - gulp - autoprefixed- minify- concat - main.css
 serialization och deserialization.
 http://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand11/Group2Mads/victor.hallberg.malin.eriksson.report.pdf
 http://mosaic.mpi-cbg.de/docs/Zaluzhnyi2016.pdf
-deploy
+
 3D grid...
 https://se.mathworks.com/help/matlab/ref/meshgrid.html?requestedDomain=true
 https://www.programiz.com/cpp-programming/multidimensional-arrays
