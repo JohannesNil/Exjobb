@@ -36,6 +36,8 @@ Comparison serialization and deserializationmetoder
 https://maxondev.com/serialization-performance-comparison-c-net-formats-frameworks-xmldata
 
 
+// JÄMFÖR NEAREST NEIGBOUR OSVSAVWMFAW
+https://www.researchgate.net/profile/Andreas_Nuchter/publication/233792571_Comparison_on_nearest-neigbour-search_strategies_and_implementations_for_efficient_shape_registration/links/0912f50b8bb8590953000000/Comparison-on-nearest-neigbour-search-strategies-and-implementations-for-efficient-shape-registration.pdf
 
 Ron pentons bok, väldigt bra att lära sig av allmän programmering.
 https://cdn.preterhuman.net/texts/math/Data_Structure_And_Algorithms/Data%20Structure%20For%20Game%20Programers%20-%20Ron%20Penton.pdf
