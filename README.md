@@ -15,6 +15,13 @@ https://www.linkedin.com/pulse/research-methodologies-comparison-quantitative-mi
 http://www.cs.umd.edu/~hjs/pubs/SameCVGIP89.pdf
 
 
+
+
+https://cdn.preterhuman.net/texts/math/Data_Structure_And_Algorithms/Data%20Structure%20For%20Game%20Programers%20-%20Ron%20Penton.pdf
+
+
+
+
 world of zero youtube
 
 
