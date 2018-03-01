@@ -10,6 +10,10 @@ Förfrågningar om vilka objekt som ligger nära en arbiträr punkt.(octree)
 Förfrågning om vilka objekt som ligger inom en volym.(octree)
 Minnesanvändning i RAM och undansparat
 
+Prova ett quadtree för att det går?
+https://bytes.com/topic/c-sharp/insights/880968-generic-quadtree-implementation
+
+
 
 https://www.linkedin.com/pulse/research-methodologies-comparison-quantitative-mixed-methods-gunnell
 http://www.cs.umd.edu/~hjs/pubs/SameCVGIP89.pdf
