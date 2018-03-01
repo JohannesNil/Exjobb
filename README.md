@@ -19,6 +19,15 @@ http://nsuworks.nova.edu/tqr/vol13/iss4/2/
 
 https://cdn.preterhuman.net/texts/math/Data_Structure_And_Algorithms/Data%20Structure%20For%20Game%20Programers%20-%20Ron%20Penton.pdf
 
+http://www.mega-project.eu/assets/exp/resources/Rafaela_and_Marisa_STSM_Zagreb_Report.pdf
+
+
+
+
+ https://www.simplypsychology.org/experimental-designs.html
+ http://ruby.fgcu.edu/courses/sbevins/50065/qtdesign.html
+
+http://www.madeira-edu.pt/LinkClick.aspx?fileticket=Fgm4GJWVTRs%3D&tabid=3004
 
 
 
