@@ -13,6 +13,10 @@ Minnesanvändning i RAM och undansparat
 Prova ett quadtree för att det går?
 https://bytes.com/topic/c-sharp/insights/880968-generic-quadtree-implementation
 
+
+https://forum.unity.com/threads/a-solution-for-accurate-raycasting-without-mesh-colliders.134554/
+
+
 intressant för Octrees
 https://en.wikipedia.org/wiki/Octree
 https://www.omicsonline.org/rendering-for-3d-animation-based-on-octree-jcsb.10000117.php?aid=1289&view=mobile
