@@ -14,6 +14,9 @@ Prova ett quadtree för att det går?
 https://bytes.com/topic/c-sharp/insights/880968-generic-quadtree-implementation
 
 
+http://ebn.bmj.com/content/18/3/66
+
+
 https://forum.unity.com/threads/a-solution-for-accurate-raycasting-without-mesh-colliders.134554/
 
 
